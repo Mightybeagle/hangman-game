@@ -1,5 +1,5 @@
 # hangman-game:
-Welcome to Alex's Hangman Game. Built in react, as the implementation of the classic word game. This is to fulfil the requirement of Task 21 of the HyperionDev CourseAdd commentMore actions
+Welcome to Alex's Hangman Game. Built in react, as the implementation of the classic word game. This is to fulfil the requirement of Task 21 of the HyperionDev Course
 
 
 ## Rules:
